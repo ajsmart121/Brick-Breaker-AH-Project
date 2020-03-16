@@ -1,0 +1,13 @@
+ - You play as the paddle.
+ - You can change the size of the paddle by 
+choosing a difficulty when prompted at the 
+beginning of the game.
+ - You can move left and right using the 
+arrow keys.
+ - If the ball touches the danger zone 
+underneath the paddle, then you lose a life.
+ - You have 10 lives in total.
+ - Break all the bricks in a level to 
+move on.
+ - There are 5 stages.
+ - Try to get the highest score possible.
